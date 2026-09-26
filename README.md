@@ -41,11 +41,5 @@ This project explores employee lifecycle data from **2016 to 2026**, simulating 
 
 
 ## 📂 Files
-[HR Analytics Dashboard.pbix](HR%20Analytics%20Dashboard.pbix)
+[HR Analytics Dashboard.pbix](HR%20Analytics%20Dashboard.pbix)  — the full Power BI report file
 
-- `HR Analytics Dashboard.pbix` — the full Power BI report file
-
-## 🚀 How to View
-
-1. Download the `.pbix` file
-2. Open it in [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free)
